@@ -9,5 +9,3 @@ for letra_pos in range (numero_de_caracteres):
         matriz_mapeamento[valor_ascii] = [letra_pos]
     else:
         matriz_mapeamento[valor_ascii] += [letra_pos]
-
-print(matriz_mapeamento)
