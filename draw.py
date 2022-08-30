@@ -6,6 +6,5 @@ from time import sleep
 
 #def desenho
     #UI
-#teste
 #main entrada import
 
