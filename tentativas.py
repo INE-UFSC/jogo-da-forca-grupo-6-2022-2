@@ -30,3 +30,4 @@ def tentativas(numero_de_caracteres,frase,matriz_mapeamento):
         elif "_" not in casas_letras:
             print("Acertou :D")
             break
+            
